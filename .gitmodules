@@ -1,0 +1,9 @@
+[submodule "app-api"]
+	path = app-api
+	url = https://github.com/chyzhyk16/app-api.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/chyzhyk16/user-service.git
+[submodule "rate-service"]
+	path = rate-service
+	url = https://github.com/chyzhyk16/rate-service.git
